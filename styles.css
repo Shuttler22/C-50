@@ -38,3 +38,6 @@ body {
   width: 310px;
   font-family: fantasy;
 }
+.origami:hover{ 
+    transform: scale(1.2);
+}
